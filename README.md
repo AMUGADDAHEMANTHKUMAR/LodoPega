@@ -42,7 +42,8 @@
 
 ## 📸 Optional Screenshots
 
-Add screenshots here if available:
+🖼️ Below are some screenshots of the Lodo Hostel application interface.
+You can download the full project and explore all features in a fully functional Pega environment.
 
 ```md
 ![Booking Form](screenshots/booking_form.png)
