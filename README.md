@@ -1,7 +1,3 @@
-Sure, Hemanth. Here's a professional and informative `README.md` file for your `lodoHostelPegaFile.zip` project. If you'd like to include screenshots or have a specific description of the functionality, let me know and I’ll tailor it further.
-
----
-
 # 🏨 Lodo Hostel Booking Application (Built with Pega)
 
 ## 📦 Overview
