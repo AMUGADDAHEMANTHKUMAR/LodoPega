@@ -45,11 +45,34 @@
 🖼️ Below are some screenshots of the Lodo Hostel application interface.
 You can download the full project and explore all features in a fully functional Pega environment.
 
-```md
-![Booking Form](screenshots/booking_form.png)
-![Decision Table](screenshots/decision_table.png)
-![Confirmation](screenshots/confirmation.png)
-```
+## 📸 Application Screenshots
+
+A quick preview of how the **Rapido Insurance Application** looks and works:
+
+### 🏠 Home Screen
+
+🖼️ Below are some screenshots of the Lodo Hostel application interface.
+You can download the full project and explore all features in a fully functional Pega environment.
+
+Application In Screenshots
+
+<img src="https://github.com/AMUGADDAHEMANTHKUMAR/LodoPega/blob/main/Screenshot%20(1950).png" width="800" height="800"> 
+
+<img src="https://github.com/AMUGADDAHEMANTHKUMAR/LodoPega/blob/main/Screenshot%20(1951).png" width="800" height="800"> 
+
+<img src="https://github.com/AMUGADDAHEMANTHKUMAR/LodoPega/blob/main/Screenshot%20(1952).png" width="800" height="800"> 
+
+<img src="https://github.com/AMUGADDAHEMANTHKUMAR/LodoPega/blob/main/Screenshot%20(1953).png" width="800" height="800"> 
+
+<img src="https://github.com/AMUGADDAHEMANTHKUMAR/LodoPega/blob/main/Screenshot%20(1954).png" width="800" height="800"> 
+
+<img src="https://github.com/AMUGADDAHEMANTHKUMAR/LodoPega/blob/main/Screenshot%20(1955).png" width="800" height="800"> 
+
+<img src="https://github.com/AMUGADDAHEMANTHKUMAR/LodoPega/blob/main/Screenshot%20(1956).png" width="800" height="800"> 
+
+<img src="https://github.com/AMUGADDAHEMANTHKUMAR/LodoPega/blob/main/Screenshot%20(1957).png" width="800" height="800"> 
+
+
 
 ## 🧑‍💻 Author
 
@@ -58,6 +81,6 @@ You can download the full project and explore all features in a fully functional
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or email if you'd like to collaborate or have questions.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or [email](hemanthkumar7783@gmail.com)if you'd like to collaborate or have questions.
 
 ---
