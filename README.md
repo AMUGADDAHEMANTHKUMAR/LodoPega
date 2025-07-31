@@ -81,6 +81,7 @@ Application In Screenshots
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or [email](hemanthkumar7783@gmail.com)if you'd like to collaborate or have questions.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or [Email](https://mail.google.com/mail/?view=cm&fs=1&to=hemanthkumar7783@gmail.com&su=Hello&body=Hi%20Hemanth,%20I%20wanted%20to...)
+if you'd like to collaborate or have questions.
 
 ---
